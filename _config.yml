@@ -2,6 +2,7 @@ name: simonliu
 favicon: null
 layout_spectrum: 0.049705284647643566
 typography_spectrum: 0.15398086211644113
+title: null
 cta:
   domain: null
   bucket: null
