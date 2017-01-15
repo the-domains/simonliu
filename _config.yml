@@ -1,20 +1,4 @@
-name: simonliu
-favicon: null
-layout_spectrum: 0.049705284647643566
 typography_spectrum: 0.15398086211644113
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,33 @@ color:
   lightness: 0.37995137413963675
   saturation: 0.4450415775645524
   rhythmicContrast: 0.13681484386324883
-purpose: []
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.049705284647643566
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Simon Liu
+  email: simon.liu@socialfit.nl
+  url: www.socialfit.nl
+name: simonliu
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: SocialFit
+content: []
+description: Sporten begint bij SocialFit!
+purpose:
+  - type: external
+    url: 'http://www.socialfit.nl'
+    label: 'SocialFit, be fit stay connected!'
+  - type: contact
+    url: 'mailto:simon.liu@socialfit.nl'
+    label: Contact me
