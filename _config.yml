@@ -29,6 +29,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Linking SocialFit
+    url: 'https://www.socialfit.nl'
+    type: external
 favicon: null
 title: SocialFit
 content: []
